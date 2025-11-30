@@ -1,5 +1,4 @@
 print("..........welcome to formula chooser.........")
-print("1. formula A\n2. formula B\n3. formula C\n4. formula")
 choice = input("choose a formula (1-4)")
 if choice == "1":
     print("your using formula A")
